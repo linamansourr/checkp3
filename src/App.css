@@ -1,0 +1,22 @@
+.App {
+    text-align: center;
+    background-color: pink;
+    justify-content: center;
+      align-items: center;
+      text-align: center;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.pic{
+    height: 300px;
+    justify-content: center;
+	align-items: center;
+	
+}
+
+.name{
+    color: red;
+  font-family: 'Playfair Display' , sans-serif ;
+  font-size: 30px;
+}
+
